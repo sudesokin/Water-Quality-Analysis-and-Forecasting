@@ -11,4 +11,5 @@ ABOUT DATASET
 10. Potability: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
 
 Scope: Designed and executed a comprehensive project focused on the in-depth analysis and accurate prediction of future water quality levels, covering data collection, preprocessing, feature engineering, and modeling phases.
+
 Methods & Results: Leveraged Random Forest, XGBoost, and LightGBM techniques within a streamlined data processing and modeling pipeline, achieving an 83% accuracy rate in forecasting water quality parameters.
