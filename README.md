@@ -10,6 +10,8 @@ ABOUT DATASET
 9. Turbidity: The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.
 10. Potability: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
 
-Scope: Designed and executed a comprehensive project focused on the in-depth analysis and accurate prediction of future water quality levels, covering data collection, preprocessing, feature engineering, and modeling phases.
+SCOPE
+Designed and executed a comprehensive project focused on the in-depth analysis and accurate prediction of future water quality levels, covering data collection, preprocessing, feature engineering, and modeling phases.
 
-Methods & Results: Leveraged Random Forest, XGBoost, and LightGBM techniques within a streamlined data processing and modeling pipeline, achieving an 83% accuracy rate in forecasting water quality parameters.
+METHODS & RESULTS
+Leveraged Random Forest, XGBoost, and LightGBM techniques within a streamlined data processing and modeling pipeline, achieving an 83% accuracy rate in forecasting water quality parameters.
